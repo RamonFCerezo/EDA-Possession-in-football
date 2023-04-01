@@ -10,8 +10,8 @@ To study that, three hypothesis are set:
     <li><strong>Main hypothesis:</strong> Is possession crucial when it comes to winning games?</li>
     <li><strong>Complementary hypothesis 1:</strong> Is the relationship between possession and victories the same in league games as in knockout games? What about in finals?</li>
     <li><strong>Complementary hypothesis 2:</strong> Is having the ball considered an offensive resource?</li>
-
-</ol>
+  </ol>
+  
 ```
 img/
 ├── Ball Possession.png
