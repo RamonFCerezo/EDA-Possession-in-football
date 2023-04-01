@@ -57,4 +57,5 @@ readme.md
 <h2>Sources</h2> 
 <a href="https://instatsport.com/">Instat</a>
 
+<br></br>
 <p>I hope this EDA has been of interest to you. Feel free to share it, ask me any doubt or work on it!</p>
