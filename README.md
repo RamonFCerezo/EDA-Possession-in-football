@@ -40,3 +40,9 @@ src/
 └──  memoria.ipynb 
 readme.md
 ```
+
+<h2>Libraries used</h2>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="80" height="80"/>
+<img src="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/img/matplotlib.svg" title="Pandas" **alt="Pandas" width="80" height="80"/>
+<img src="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/img/Seaborn.svg" title="Pandas" **alt="Pandas" width="80" height="80"/>
