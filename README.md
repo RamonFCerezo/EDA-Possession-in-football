@@ -12,6 +12,7 @@ To study that, three hypothesis are set:
     <li><strong>Complementary hypothesis 2:</strong> Is having the ball considered an offensive resource?</li>
   </ol>
   
+<h2>Project Structure</h2>
 ```
 img/
 ├── Ball Possession.png
@@ -48,3 +49,6 @@ readme.md
 <img src="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/img/matplotlib.svg" title="Pandas" **alt="Pandas" width="220" height="180"/>
 <img src="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/img/Seaborn.svg" title="Pandas" **alt="Pandas" width="180" height="180"/>
 </div>
+
+<h2>Sources</h2> 
+<a href="https://instatsport.com/">Instat Website</a>
