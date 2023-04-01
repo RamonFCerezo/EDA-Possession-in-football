@@ -43,8 +43,8 @@ readme.md
 
 <h2>Libraries used</h2>
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="120" height="120"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="120" height="120"/>
-<img src="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/img/matplotlib.svg" title="Pandas" **alt="Pandas" width="150" height="120"/>
-<img src="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/img/Seaborn.svg" title="Pandas" **alt="Pandas" width="120" height="120"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="200" height="200"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="200" height="200"/>
+<img src="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/img/matplotlib.svg" title="Pandas" **alt="Pandas" width="240" height="200"/>
+<img src="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/img/Seaborn.svg" title="Pandas" **alt="Pandas" width="200" height="200"/>
 </div>
