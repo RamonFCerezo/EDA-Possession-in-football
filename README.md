@@ -4,25 +4,30 @@
 </div>
 
 ```
+img/
+├── Ball Possession.png
 src/
-|-- data/
-|   |-- LaLiga/
-|   |-- Bundesliga/
-|   |-- Premier League/
-|   |-- Serie A/
-|   |-- Ligue 1/
-|   |-- World Cup/
-|   |-- Euro Cup/
-|   |-- Champions League/
-|   |-- Europa League/
-|   |-- Conference League/
-|   |-- Leagues (merged)/
-|   |-- Play-Offs/
-|   |-- All ...
-|   `-- ...
-|-- notebooks/
-|   |-- pruebas.ipynb ...
-|   `-- ...
-|-- memoria.ipynb
-`-- readme.md
+├── data/
+│ ├── LaLiga/
+│ ├── Bundesliga/
+│ ├── Premier League/
+│ ├── Serie A/
+│ ├── Ligue 1/
+│ ├── World Cup/
+│ ├── Euro Cup/
+│ ├── Champions League/
+│ ├── Europa League/
+│ ├── Conference League/
+│ ├── Leagues (merged)/
+│ ├── Play-Offs/
+│ └── All/
+├── notebooks/
+│ ├── Final_insights.ipynb
+│ ├── Insights.ipynb
+│ ├── data_clean.ipynb
+│ └── data_clean2.ipynb
+├── utils/
+| ├── Presentation Spanish.pptx
+└──  memoria.ipynb 
+readme.md
 ```
