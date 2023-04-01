@@ -43,6 +43,9 @@ src/
 readme.md
 ```
 
+<h2>Process</h2>
+<p>This project began with the task of finding appropriate data to study, which required extensive research to obtain. The second step was to clean the data until it became useful for generating insightful information that helped us answer our hypotheses. However, there were challenges, such as dealing with a large dataset that spanned over 30 files, identifying and removing duplicate entries, and converting data to the proper format. Once the data was cleaned, I began creating visualizations and graphs to make the complex data easier to understand for any audience. All these steps can be viewed in the "<a href="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/src/Memoria.ipynb">memoria.ipynb</a>" file. Finally, I created the presentation and delivered it in January 2023.</p>
+
 <h2>Libraries used</h2>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="180" height="180"/>
@@ -52,4 +55,6 @@ readme.md
 </div>
 
 <h2>Sources</h2> 
-<a href="https://instatsport.com/">Instat Website</a>
+<a href="https://instatsport.com/">Instat</a>
+
+<p>I hope this EDA has been of interest to you. Feel free to share it, ask me any doubt or work on it!</p>
