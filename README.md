@@ -13,6 +13,7 @@ To study that, three hypothesis are set:
   </ol>
   
 <h2>Project Structure</h2>
+
 ```
 img/
 ├── Ball Possession.png
